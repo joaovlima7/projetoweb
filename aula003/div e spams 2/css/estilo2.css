@@ -1,0 +1,24 @@
+#conteudo {
+    background-color: burlywood;
+}
+
+.titulo {
+    font-size: x-large;
+    color: crimson;
+}
+
+.cor1 {
+    color: darkblue;
+}
+
+.cor2 {
+    color: darkgreen;
+}
+
+.cor3 {
+    color: red;
+}
+
+p {
+    color: rgb(0, 110, 255) !important;
+}
