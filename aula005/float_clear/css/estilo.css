@@ -7,6 +7,7 @@
 .artigo {
     width: 180px; padding: 5px; margin: 5px;
     background-color: #d6d5d5;
+    float: left;
 }
 
 .limpar_float {
