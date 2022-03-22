@@ -3,7 +3,6 @@
 }
 
 .titulo {
-    font-family: ;
     font-size: 2em;
     font-weight: 1200;
     font-style: bold;
@@ -59,23 +58,13 @@ p {
 }
 
 .button {
-    display: ;
-    width: ;
-    height: ;
-    padding: ;
-    background-color: ;
+    
 }
 
-.login {
-    font-family: ;
-    font-size: ;
-    font-style: ;
-    color: ;
+#login {
+   
 }
 
-.contato {
-    font-family: ;
-    font-size: ;
-    font-style: ;
-    color: ;
+#contato {
+   
 }
