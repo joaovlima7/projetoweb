@@ -1,0 +1,31 @@
+@keyframes animacao-box {
+     
+    /*De: Formatação inicial*/
+    form {
+        background: #dda304;
+        border-radius: 0px;
+    }
+
+    /*Para: formatação final*/
+    to {
+        background: #dd1d04;
+        border-radius: 300px;
+    }
+}
+
+#box {
+    width: 300px;
+    height: 300px;
+    background: #dda304;
+    /**/
+    animation: animacao-box;
+    /**/
+    animation-duration: 3s;
+    /**/
+    animation-delay: 3s;
+    /**/
+    animation-iteration-count: 2;
+    /**/
+    animation-direction: alternate;
+    /**/
+}
