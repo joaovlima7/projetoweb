@@ -9,7 +9,7 @@ header {
     margin: 0px auto;
 }
 
-#container section {
+#container section{
     background: #f2f2f2;
     height: 300px;
     width: 80%;
@@ -29,13 +29,13 @@ header {
     /*Definir justificação do layout
     flex-start - flex-end - center - space-between
     space-around - space-evenly*/
-    justify-content: space-around
-
+    justify-content: space-around;
+    
     /*Definir alinhamento dos itens do layout
     strech - center - flex-start - flex-end*/
-    align-items: center
+    align-items: center;
+    
 }
-
 section .produto {
     width: 150px; height: 150px;
     margin: 10px;
