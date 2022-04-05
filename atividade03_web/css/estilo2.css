@@ -1,0 +1,119 @@
+body {
+    background-color:peru;
+}
+
+#container {
+    margin: 0px auto;
+    flex-direction: column;
+    align-items: center;
+    display: flex;
+}
+
+nav {
+    width: 100%;
+    height: 40px;
+    text-align: center;
+    margin: 0px auto;
+    background-color:saddlebrown;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    line-height: 2.5em;
+    list-style-type: none;
+    padding: 1.5em;
+}
+
+header {
+    width: 100%;
+    height: 400px;
+    text-align: center;
+    margin: 0px auto;
+    line-height: 2.5em;
+    margin-bottom: 40px;
+}
+
+#circulos{
+    width: 80%;
+    margin: 0px auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#circulo1 {
+    border-radius: 180px;
+    background: saddlebrown;
+}
+
+#circulo2 {
+    border-radius: 180px;
+    background: saddlebrown;
+}
+
+#circulo3 {
+    border-radius: 180px;
+    background: saddlebrown;
+}
+
+#circulo4 {
+    border-radius: 180px;
+    background: saddlebrown;
+}
+#secao2 {
+    width: 100%;
+    margin: 0px auto;
+    text-align: center;
+}
+
+#informacoes {
+    height: 500px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    float: right;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#secao3 {
+    width: 98%;
+    margin: 0px auto;
+    text-align: center; 
+}
+
+#quadrados {
+    width: 80%;
+    margin: 0px auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.quadrado {
+    width: 200px;
+    height: 250px;
+    padding: 10px;
+    margin: 10px;
+    float: left;
+    display: flex;
+}
+
+#rodape {
+    height: 150px;
+    margin: 0px auto;
+    text-align: center;
+    line-height: 2.5em;
+    background-color:saddlebrown;
+}
+
+p {
+    color: white;
+    line-height: 10em;
+}
